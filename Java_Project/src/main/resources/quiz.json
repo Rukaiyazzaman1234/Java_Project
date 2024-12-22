@@ -1,0 +1,120 @@
+[
+  {
+    "question": "Which methodology is used to performed Maintenance testing?",
+    "option1": "Breadth test and depth test",
+    "option2": "Confirmation testing",
+    "option3": "Retesting",
+    "option4": "Sanity testing",
+    "answerkey": 1
+  },
+  {
+    "question": " Which of the following is not part of the Test document?",
+    "option1": "Test Case",
+    "option2": "Requirements Traceability Matrix [RTM]",
+    "option3": "Test strategy",
+    "option4": "Project Initiation Note [PIN]",
+    "answerkey": 4
+  },
+  {
+    "question": "Which term is used to define testing?",
+    "option1": "Evaluating deliverable to find errors",
+    "option2": "Finding broken code",
+    "option3": "A stage of all projects",
+    "option4": "None of the above",
+    "answerkey": 1
+  },
+  {
+    "question": "Which of the following is not a valid phase of SDLC (Software Development Life Cycle)?",
+    "option1": "Testing Phase",
+    "option2": "Requirement Phase",
+    "option3": "Deployment phase",
+    "option4": "Testing closure",
+    "answerkey": 4
+  },
+  {
+    "question": "Which of the following testing is related to the boundary value analysis?",
+    "option1": "White box and black box testing",
+    "option2": "White-box testing",
+    "option3": "Black box testing",
+    "option4": "None of the above",
+    "answerkey": 3
+  },
+  {
+    "question": "Which of the following testing is also known as white-box testing?",
+    "option1": "Structural testing",
+    "option2": "Error guessing technique",
+    "option3": "Design based testing",
+    "option4": "None of the above",
+    "answerkey": 1
+  },
+  {
+    "question": " Functional testing is a ------?",
+    "option1": "Test design technique",
+    "option2": "Test level",
+    "option3": "SDLC Model",
+    "option4": "Test type",
+    "answerkey": 4
+  },
+  {
+    "question": "What are the different levels of Testing??",
+    "option1": "Integration testing",
+    "option2": "Unit testing",
+    "option3": "System testing",
+    "option4": "All of the above",
+    "answerkey": 4
+  },
+  {
+    "question": "Which of the following is not a part of STLC (Software Testing Life Cycle)?",
+    "option1": "Test design technique",
+    "option2": "Requirement Gathering",
+    "option3": "Test Design",
+    "option4": "Testing closure",
+    "answerkey": 2
+  },
+  {
+    "question": "Sanity testing is a ------?",
+    "option1": "Test type",
+    "option2": "Test Execution Level",
+    "option3": "Test Level",
+    "option4": "Test design technique",
+    "answerkey": 2
+  }
+
+  ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
