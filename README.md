@@ -11,10 +11,6 @@ A student can login with user name and password. This student will asked he want
 get the message ,"your answer is wrong". After finising the exam that person will be able to know how much score he actually get after exam.
 
 
-Project document file link:
-
-https://docs.google.com/document/d/1qwEEc9RadDlpy24-a7xuUZCdYyVZ-XOwh_lYjLZThmE/edit?usp=sharing
-
 Project video link:
 
 https://drive.google.com/file/d/1bFfuD8E3ig1-lxpI6ue0FXjXCwSwj8Es/view?usp=sharing
